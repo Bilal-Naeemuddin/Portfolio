@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio1/static/css/main.1132f68a.chunk.css",
-    "main.js": "/Portfolio1/static/js/main.41145556.chunk.js",
-    "main.js.map": "/Portfolio1/static/js/main.41145556.chunk.js.map",
+    "main.js": "/Portfolio1/static/js/main.1fbb63bc.chunk.js",
+    "main.js.map": "/Portfolio1/static/js/main.1fbb63bc.chunk.js.map",
     "runtime-main.js": "/Portfolio1/static/js/runtime-main.c69e401d.js",
     "runtime-main.js.map": "/Portfolio1/static/js/runtime-main.c69e401d.js.map",
-    "static/js/2.45007a91.chunk.js": "/Portfolio1/static/js/2.45007a91.chunk.js",
-    "static/js/2.45007a91.chunk.js.map": "/Portfolio1/static/js/2.45007a91.chunk.js.map",
+    "static/js/2.6d214fc8.chunk.js": "/Portfolio1/static/js/2.6d214fc8.chunk.js",
+    "static/js/2.6d214fc8.chunk.js.map": "/Portfolio1/static/js/2.6d214fc8.chunk.js.map",
     "index.html": "/Portfolio1/index.html",
     "static/css/main.1132f68a.chunk.css.map": "/Portfolio1/static/css/main.1132f68a.chunk.css.map",
-    "static/js/2.45007a91.chunk.js.LICENSE.txt": "/Portfolio1/static/js/2.45007a91.chunk.js.LICENSE.txt",
+    "static/js/2.6d214fc8.chunk.js.LICENSE.txt": "/Portfolio1/static/js/2.6d214fc8.chunk.js.LICENSE.txt",
     "static/media/Covid_19_Tracker.2ccf60cc.png": "/Portfolio1/static/media/Covid_19_Tracker.2ccf60cc.png",
     "static/media/LDSS_Project.f61aaed7.png": "/Portfolio1/static/media/LDSS_Project.f61aaed7.png",
     "static/media/Microsoft_Office_Access.b14b04db.svg": "/Portfolio1/static/media/Microsoft_Office_Access.b14b04db.svg",
@@ -35,7 +35,6 @@
     "static/media/material-ui-1.fd510ed8.svg": "/Portfolio1/static/media/material-ui-1.fd510ed8.svg",
     "static/media/nodejs.52cbf9a8.svg": "/Portfolio1/static/media/nodejs.52cbf9a8.svg",
     "static/media/pandas.a705425b.png": "/Portfolio1/static/media/pandas.a705425b.png",
-    "static/media/postgresql.ae92b576.svg": "/Portfolio1/static/media/postgresql.ae92b576.svg",
     "static/media/python.e6d7dc73.svg": "/Portfolio1/static/media/python.e6d7dc73.svg",
     "static/media/r.2cbb015d.png": "/Portfolio1/static/media/r.2cbb015d.png",
     "static/media/react-bootstrap.534ba574.svg": "/Portfolio1/static/media/react-bootstrap.534ba574.svg",
@@ -46,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c69e401d.js",
-    "static/js/2.45007a91.chunk.js",
+    "static/js/2.6d214fc8.chunk.js",
     "static/css/main.1132f68a.chunk.css",
-    "static/js/main.41145556.chunk.js"
+    "static/js/main.1fbb63bc.chunk.js"
   ]
 }
