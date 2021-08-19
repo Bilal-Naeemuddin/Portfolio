@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio1/static/css/main.1132f68a.chunk.css",
-    "main.js": "/Portfolio1/static/js/main.81a27364.chunk.js",
-    "main.js.map": "/Portfolio1/static/js/main.81a27364.chunk.js.map",
+    "main.js": "/Portfolio1/static/js/main.08e477e2.chunk.js",
+    "main.js.map": "/Portfolio1/static/js/main.08e477e2.chunk.js.map",
     "runtime-main.js": "/Portfolio1/static/js/runtime-main.c69e401d.js",
     "runtime-main.js.map": "/Portfolio1/static/js/runtime-main.c69e401d.js.map",
     "static/js/2.6d214fc8.chunk.js": "/Portfolio1/static/js/2.6d214fc8.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/Covid_19_Tracker.2ccf60cc.png": "/Portfolio1/static/media/Covid_19_Tracker.2ccf60cc.png",
     "static/media/LDSS_Project.f61aaed7.png": "/Portfolio1/static/media/LDSS_Project.f61aaed7.png",
     "static/media/Microsoft_Office_Access.b14b04db.svg": "/Portfolio1/static/media/Microsoft_Office_Access.b14b04db.svg",
-    "static/media/Profile.b0da91c2.jpeg": "/Portfolio1/static/media/Profile.b0da91c2.jpeg",
+    "static/media/Profile.4ed608f7.jpeg": "/Portfolio1/static/media/Profile.4ed608f7.jpeg",
     "static/media/Spam_and_Ham.f68b32cd.png": "/Portfolio1/static/media/Spam_and_Ham.f68b32cd.png",
     "static/media/WeatherApp.57b30b01.png": "/Portfolio1/static/media/WeatherApp.57b30b01.png",
     "static/media/background.webp": "/Portfolio1/static/media/background.f6814621.webp",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.c69e401d.js",
     "static/js/2.6d214fc8.chunk.js",
     "static/css/main.1132f68a.chunk.css",
-    "static/js/main.81a27364.chunk.js"
+    "static/js/main.08e477e2.chunk.js"
   ]
 }
