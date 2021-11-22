@@ -24,10 +24,9 @@ const About = () => {
                 Hey there! I am <strong>&nbsp;Bilal Naeemuddin,</strong>
                 <br />
                 I'm a third year student at the University of Wilfrid Laurier studying Data Science. 
-                Currently I am working for FGF Brands which is a Bakery and Tech Company as a Data 
-                Scietist! I am
-                also very passionate about programming, data analysis and researching statistics.
-                I have multiple years of experience with various technologies and languages such as Python, R, VS Code and many more.
+                Currently I am working for FGF Brands as Data Scientist, the company is very unique being a Tech-Bakery
+                company. At FGF, I am able to learn more about my passion in programming, data analysis and statistical research.
+                I also have multiple years of experience with various technologies and languages such as Python, R, VS Code and many more.
                 I am enthusiastic about learning new skills and facing new challenges, I hope to keep growing to
                 become the best I can to my ability.  
 

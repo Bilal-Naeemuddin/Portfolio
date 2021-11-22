@@ -40,7 +40,7 @@ const TitleMessage = () => (
         </div>
         <div className="sub">
         <ReactTypingEffect
-        text={["Data Analyst","Full-Stack Deveolper","Gamer","Student"]}
+        text={["Data Analyst","Data Scientist","Full-Stack Deveolper","Gamer","Student"]}
         cursorRenderer={cursor => <h1>{cursor}</h1>}
         displayTextRenderer={(text, i) => {
           return (
