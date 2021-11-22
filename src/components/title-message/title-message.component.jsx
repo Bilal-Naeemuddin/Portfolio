@@ -35,7 +35,7 @@ const TitleMessage = () => (
           Hello, I am
           <br />
           <span>
-            <strong>Bilal Naeemuddin</strong>
+            <strong>Bilal</strong>
           </span>
         </div>
         <div className="sub">
