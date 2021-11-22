@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import L_ACCENTURE from "../../assets/img/experience/accenture-3.png";
+import L_ACCENTURE1 from "../../assets/img/experience/accenture-4.png";
 import Tilt from 'react-parallax-tilt';
 import "./experience.styles.css";
 
@@ -15,32 +15,30 @@ const Experience = () => {
           <Tilt options={{ max: 25 }}>
             <Card>
               <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-                <Card.Img variant="top" className="img-resize" src={L_ACCENTURE} alt="Accenture logo" />
+                <Card.Img variant="top" className="img-resize" src={L_ACCENTURE1} alt="Accenture logo" />
               </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Project Manager/Data Analyst</Card.Title>
+                  <Card.Title className="text-center">FGF Brands</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    {/*<strong className="body-title-style ">Data Analyst</strong>
-                    <br />*/}
-                    <strong>Languages & Platforms:</strong> R, Rstudio
+                    <strong className="body-title-style ">Data Scientist</strong>
                     <br />
-                    <strong>Duration:</strong> Janurary 2021 - April 2021
+                    <strong>Duration:</strong> September 2021 - Present
+                    <br/>
                     <br/>
                     <strong></strong>
                     <ul className="text-left">
-                      <li><strong>Competed in a University sponsored contest to answer the question 
-                        “How did covid-19 impact our daily lives?” </strong> </li>
+                      <li>Developed a Flask app that detects defective blueberries such as discoloration, mold, etc. This helped increase production time in the line by 88.2%</li>
 
-                      <li><strong>Collaborated with 5 members, being the team lead of the group, 
-                        I was responsible for organizing and creating a timeline for the team. 
-                        I was also tasked with helping the members with less experience in data analyzing and visualization. </strong> 
+                      <li>Added Camera detection in manufacturing plants to detect humans which increased efficiency in the line by 15.5%
                       </li>
 
-                      <li><strong>Used multiple datasets related to mobility, unemployment rates 
-                        and daily covid-19 cases in the US to find trends related to the question of the competition. </strong> 
+                      <li>Learned how to use Custom Vision to train detection models, extract and implement the model to be used
+                      </li>
+
+                      <li>Learned how to extract data from Cameras in the line and from videos that contained large amounts of footage 
                       </li>
                     </ul>
                     

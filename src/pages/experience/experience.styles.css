@@ -4,7 +4,7 @@
   
   .style {
     font-size: 20px;
-    
+    color:aliceblue;
   }
   
   .jumbo-style {
@@ -14,8 +14,14 @@
   .body-title-style {
     font-size: 25px;
     font-weight: 800;
+    
   }
 
   .card{
     background-color: transparent;
+    color: aliceblue;
+  }
+
+  .card-title {
+    color: aliceblue !important;
   }

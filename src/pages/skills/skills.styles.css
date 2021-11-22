@@ -9,6 +9,7 @@
   .card-title {
     font-size: 2em;
     font-weight: 700;
+    color: black;
   }
   
   .image-style {
@@ -26,3 +27,7 @@
     font-weight: 500;
     color: black;
   }
+
+.text-dark{
+  color: aliceblue !important;
+}

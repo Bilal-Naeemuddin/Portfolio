@@ -38,6 +38,7 @@ const TimeLine = () => {
             text="Spam/Ham Classifaction"
             src={L_Spam_And_Ham}
             alt="Spam and Ham Classifaction"
+          
           >
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>

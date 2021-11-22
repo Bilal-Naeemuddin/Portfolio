@@ -7,11 +7,12 @@
     background-color: transparent;
     border-radius: 4px;
     padding: 10px;
-    color: black;
+    color: aliceblue;
   }
 
   .card{
-    background-color: rgb(62, 62, 223) !important;
+    background-color: rgba(62, 62, 223, 0.5) !important;
+ 
   }
   
   .list-styles {
@@ -29,10 +30,14 @@
 
   .date{
     background-color: rgb(62, 62, 223) !important;
-    color: black !important;
+    color: aliceblue !important;
   }
 
   
   .timeline::after {
     background-color: black !important;
+}
+
+.ctlkmo.ctlkmo{
+  color: aliceblue !important;
 }

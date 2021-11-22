@@ -21,13 +21,15 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hi there! I am <strong>&nbsp;Bilal Naeemuddin</strong>
+                Hey there! I am <strong>&nbsp;Bilal Naeemuddin,</strong>
                 <br />
                 I'm a third year student at the University of Wilfrid Laurier studying Data Science. 
-                I have a strong passion for programming, software development and data analysis.
+                Currently I am working for FGF Brands which is a Bakery and Tech Company as a Data 
+                Scietist! I am
+                also very passionate about programming, data analysis and researching statistics.
                 I have multiple years of experience with various technologies and languages such as Python, R, VS Code and many more.
                 I am enthusiastic about learning new skills and facing new challenges, I hope to keep growing to
-                become the best I can.  
+                become the best I can to my ability.  
 
                 <Col className="d-flex justify-content-center flex-wrap">
 

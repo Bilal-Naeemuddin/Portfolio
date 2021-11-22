@@ -12,6 +12,7 @@ const MyNavbar = () => {
         fixed="top"
         variant="dark"
         expand="md"
+        sticky = "top"
         className="animate-navbar nav-theme justify-content-between"
       >
         <div>
