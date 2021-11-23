@@ -13,8 +13,7 @@ const MyTitleMessage = styled.h1`
     font-size: 2em;
   }
   div {
-    color: black;
-    text-shadow: 0px 2px 5px rgba(0, 0, 0);
+    color: rgba(84, 186, 226, 0.4);
     font-weight: 350;
     letter-spacing: 7px;
     .main {

@@ -69,6 +69,7 @@ const App = () => {
         >
     <Container className="container-box rounded">
     <Fade delay={100}>
+    
     <Experience />
     </Fade>
     </Container>
@@ -91,7 +92,7 @@ const App = () => {
     </div>
 
 
-  );
+ );
 };
 
 

@@ -10,11 +10,12 @@
   .jumbo-style {
     background-color: transparent;
   }
-  
+  .jumbotron {
+    margin-top: -50px;
+ }
   .body-title-style {
     font-size: 25px;
     font-weight: 800;
-    
   }
 
   .card{
@@ -24,4 +25,5 @@
 
   .card-title {
     color: aliceblue !important;
+    
   }

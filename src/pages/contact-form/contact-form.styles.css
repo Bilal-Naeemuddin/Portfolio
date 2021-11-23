@@ -1,7 +1,8 @@
 .contact-jumbotron{
-    background-color: rgb(62, 62, 223, 0.5);
+    background-color: rgba(100, 100, 190, 0.28);
 }
 
-.font-details{
-    color: black !important;
+.font-details-b{
+    color: rgba(84, 186, 226, 0.8);
+    text-align: center !important;
 }

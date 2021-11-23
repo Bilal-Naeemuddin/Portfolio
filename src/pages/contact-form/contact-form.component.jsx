@@ -8,7 +8,9 @@ import "./contact-form.styles.css";
 const ContactForm = () => {
   return (
     <div id="contact">
-      <h1 className="pt-3 text-center font-details-b pb-3">Contact Me!</h1>
+      <h1 className="pt-3 text-center font-details-b pb-3"><strong>Contact Me!</strong></h1>
+      <br/>
+      <br/>
       <Jumbotron className="contact-jumbotron">
         <Row>
           <Col className="d-flex justify-content-center flex-wrap">

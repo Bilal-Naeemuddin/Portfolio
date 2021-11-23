@@ -6,23 +6,21 @@
   
   .profile {
     max-width: 18em;
-    background-color: rgb(62, 62, 223, 0.5);
-    border-color: rgb(62, 62, 223, 0.5);
+    background-color: transparent;
+    border-color: transparent;
   }
   
   .my-details {
-    background-color: rgb(62, 62, 223, 0.5);
+    background-color: rgba(100, 100, 190, 0.28);
   }
 
   .font-details {
     font-size: 3em;
-    font-weight: 500;
-    color: black !important;
+    color:rgba(84, 186, 226, 0.4) !important;
   }
   .abt{
     text-align: center;
     font-size: 3em;
-    
   }
   
 
