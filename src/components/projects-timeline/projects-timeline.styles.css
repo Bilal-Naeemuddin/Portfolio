@@ -24,8 +24,8 @@
   }
 
   .marker{
-    background-color: rgba(62, 62, 223) !important;
-    border: rgba(62, 62, 223) !important;
+    background-color: rgb(134, 134, 211) !important;
+    border: rgb(134, 134, 211) !important;
   }
 
   .date{
@@ -35,7 +35,7 @@
 
   
   .timeline::after {
-    background-color: rgba(73, 73, 226, 0.5) !important;
+    background-color: rgb(134, 134, 211) !important;
 }
 
 .ctlkmo.ctlkmo{
@@ -49,4 +49,8 @@
 .accordion>.card>.card-header {
 
   background-color: rgb(134, 134, 211) !important;
+}
+
+.gtNHHC.gtNHHC .url-button{
+  background-color: transparent;
 }
