@@ -19,7 +19,7 @@ const App = () => {
   return  (
 
   <div style={{ position: "relative" }}>
-
+ 
     <MyNavbar />
     <MyCarousal />
     <TitleMessage />
